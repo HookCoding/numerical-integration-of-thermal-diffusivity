@@ -1,0 +1,1 @@
+# numerical-integration-of-thermal-diffusivity
