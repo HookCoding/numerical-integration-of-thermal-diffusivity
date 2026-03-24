@@ -1,0 +1,9 @@
+﻿param,value,unit
+cheese_temp,150,C
+initial_mouth_temp,37,C
+contact_time,10,s
+total_sim_time,30,s
+cheese_thickness_mm,5,mm
+tissue_depth_mm,5,mm
+grid_steps_temp,200,
+grid_steps_time,200,
